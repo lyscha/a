@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #335ac4;
+    font-family: initial;
+}
+
+    .navbar {background-color:#24387a ;}
